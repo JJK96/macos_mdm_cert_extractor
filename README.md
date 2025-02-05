@@ -1,4 +1,4 @@
-A small wrapper around [chainbreaker] and openssl to extract an MDM (Intune) certificate that can later be imported in other browsers, for example on other devices to gain access from there.
+A small wrapper around [chainbreaker](https://github.com/n0fate/chainbreaker) and openssl to extract an MDM (Intune) certificate that can later be imported in other browsers, for example on other devices to gain access from there.
 
 Please be aware that using this in the wrong locations might compromise the security of company resources. An example of a valid usecase for this is to access company resources from within a VM that is running on a managed device.
 
